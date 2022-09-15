@@ -149,6 +149,7 @@ LICENSE file.
     <thrift.version>0.8.0</thrift.version>
     <tablestore.version>4.8.0</tablestore.version>
     <voltdb.version>10.1.1</voltdb.version>
+    <vitess.version>11.0.4</vitess.version>
     <zookeeper.version>3.5.8</zookeeper.version>
   </properties>
 
@@ -202,6 +203,7 @@ LICENSE file.
     <module>tarantool</module>
     <module>tablestore</module>
     <module>voltdb</module>
+    <module>vitess</module>
     <module>zookeeper</module>
   </modules>
 
